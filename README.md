@@ -7,6 +7,6 @@
 - High School: Graduated from Angeles City Science High School
 
 ## My Projects
-- Midterm lab task 1:[Data Cleaning and Preparation using Excel](https://github.com/CMHalili/Tasks-EDM-Portfolio/blob/main/Midterm%20Lab%20Task%201/task1.md)
-- Midterm Lab Task 2:[Data Cleaning and Preparation using Power Query](https://github.com/CMHalili/Tasks-EDM-Portfolio/blob/main/Midterm%20Lab%20Task%202/task2.md)
+- Midterm lab task 1: [Data Cleaning and Preparation using Excel](https://cmhalili.github.io/Midterm-Lab-Task-1/)
+- Midterm Lab Task 2: [Data Cleaning and Preparation using Power Query](https://cmhalili.github.io/Midterm-Lab-Task-2/)
 
