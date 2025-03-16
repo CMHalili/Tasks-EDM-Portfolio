@@ -2,7 +2,7 @@
 - This portfolio will serve as a collection of my Enterprise Management Lab Exercise
 
 ## About Me
-### ![Image](https://github.com/user-attachments/assets/1146b07c-71a8-464c-91c1-6442f7267bf7)
+### ![Image](https://github.com/user-attachments/assets/a7a2ea27-cb29-4d8f-af57-d61c09a85950)
 - Hi! I'm Cassandra Halili! I'm currently pursuing a Bachelor of Science in Infromation System (BSIS), at City College of Angeles where I explore the intersection of technology, business, and data.
 
 
