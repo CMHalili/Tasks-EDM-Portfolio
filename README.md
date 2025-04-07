@@ -10,7 +10,10 @@
 - College: Currently studying at City College of Angeles
 - High School: Graduated from Angeles City Science High School
 
-## My Projects
+## Midterm Projects
 - Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](https://cmhalili.github.io/Midterm-Lab-Task-1/)
 - Midterm Lab Task 2:[Data Cleaning and Preparation using Power Query](https://cmhalili.github.io/Midterm-Lab-Task-2/)
 - Midterm Lab Task 3:[Creating PIVOT TABLE and DASHBOARD](https://cmhalili.github.io/Midterm-Lab-task-3/)
+
+## Finals Projects
+- Final Lab Task 1:[Creating PIVOT TABLE and DASHBOARD](https://cmhalili.github.io/Midterm-Lab-task-3/)
