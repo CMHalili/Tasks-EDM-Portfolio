@@ -16,4 +16,4 @@
 - Midterm Lab Task 3:[Creating PIVOT TABLE and DASHBOARD](https://cmhalili.github.io/Midterm-Lab-task-3/)
 
 ## Finals Projects
-- Final Lab Task 1:[Creating PIVOT TABLE and DASHBOARD](https://cmhalili.github.io/Midterm-Lab-task-3/)
+- Final Lab Task 1:[Creating a DATABASE USING MySQL WORKBench](https://cmhalili.github.io/Midterm-Lab-task-3/)
