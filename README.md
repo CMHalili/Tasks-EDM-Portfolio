@@ -1,5 +1,5 @@
 # EDM-Portfolio
-- This portfolio will serve as a collection of my Enterprise Management Lab Exercise
+- This portfolio will serve as a collection of my Enterprise Data Management Lab Exercises.
 
 ## About Me
 ### ![Image](https://github.com/user-attachments/assets/a7a2ea27-cb29-4d8f-af57-d61c09a85950)
