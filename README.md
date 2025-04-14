@@ -17,3 +17,4 @@
 
 ## Finals Projects
 - Final Lab Task 1:[Creating a DATABASE USING MySQL WORKBench](https://cmhalili.github.io/Final-Lab-Task-1/)
+- Final Lab Task 2:[Transform ER into Relational tables] 
