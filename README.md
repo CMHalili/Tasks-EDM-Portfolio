@@ -2,7 +2,7 @@
 - This portfolio will serve as a collection of my Enterprise Data Management Lab Exercises.
 
 ## About Me
-### ![Image](https://github.com/user-attachments/assets/609b045c-c244-452f-8b64-efdbf488d6e3)
+### ![Image](https://github.com/user-attachments/assets/63f732a1-b2fd-4b3b-93b1-a08ba6122116)
 - Hi! I'm Cassandra Halili! I'm currently pursuing a Bachelor of Science in Infromation System (BSIS), at City College of Angeles where I explore the intersection of technology, business, and data.
 
 
