@@ -19,3 +19,4 @@
 - Final Lab Task 1:[Creating a DATABASE USING MySQL WorkBench](https://cmhalili.github.io/Final-Lab-Task-1/)
 - Final Lab Task 2:[Transforming ER into Relational tables](https://cmhalili.github.io/Final-Lab-Task-2/)
 - Final Lab Task 3:[Table Manipulation](https://cmhalili.github.io/Final-Lab-Task-3/)
+- Final Lab Task 3.1[Using MYSQL CLAUSE](https://cmhalili.github.io/Final-Lab-Task-3.1/)
