@@ -21,3 +21,4 @@
 - Final Lab Task 3:[Table Manipulation](https://cmhalili.github.io/Final-Lab-Task-3/)
 - Final Lab Task 3.1[Using MYSQL CLAUSE](https://cmhalili.github.io/Final-Lab-Task-3.1/)
 - Final Lab Task 5 [Views, Stored Procedures and Functions](https://cmhalili.github.io/Final-Lab-Task-5/)
+- Final Lab Task 6 [MongoDBCRUD](https://cmhalili.github.io/Final-Lab-Task-6/)
